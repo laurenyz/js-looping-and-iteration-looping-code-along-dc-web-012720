@@ -7,4 +7,3 @@ function writeCards(names, event){
   console.log(arr);
 }
 
-writeCards( [ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' )
