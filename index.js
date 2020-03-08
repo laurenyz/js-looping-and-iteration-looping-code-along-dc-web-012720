@@ -6,3 +6,5 @@ function wrapGift(names, event){
   }
   console.log(arr);
 }
+
+wrapGift(arr, "birthday")
