@@ -7,4 +7,4 @@ function wrapGift(names, event){
   console.log(arr);
 }
 
-wrapGift( ["Audrey", "Lauren"], "birthday")
+writeCards( [ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' )
